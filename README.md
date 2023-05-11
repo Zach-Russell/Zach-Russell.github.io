@@ -1,4 +1,5 @@
-# H1     Welcome to Zach-Russell.github.io
+theme: minima
+# H1
 ## H2
 ### H3
 #### H4
