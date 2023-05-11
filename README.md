@@ -1,7 +1,6 @@
-theme: minima
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Welcome to my website
+## My name is Zach Russell
+### I am a Computer Science Student at UVA
+#### This is the second website that I've developed
+##### It uses GitHub Pages
+###### This header is the smallest option
