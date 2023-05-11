@@ -1,4 +1,13 @@
 theme: minima
+title: Zach's Personal Website
 
-#Title
-name: Zach's Website
+author: Zach Russell
+email: zacharyrussell01@gmail.com
+description: > 
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+
+github_username: Zach-Russell
+show_excerpts: true
