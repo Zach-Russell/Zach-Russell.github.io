@@ -3,11 +3,8 @@ title: Zach's Personal Website
 
 author: Zach Russell
 email: zacharyrussell01@gmail.com
-description: > 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
-
+bio: Software Engineer
 github_username: Zach-Russell
+linkedin: "zachary-russell-350453207"
 show_excerpts: true
