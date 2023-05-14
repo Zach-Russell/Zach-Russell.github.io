@@ -1,5 +1,9 @@
 theme: minima
 title: Zach's Personal Website
+pages:
+    - title: About Me
+      path: /Zach's Personal Website/AboutMe.md
+
 
 author: Zach Russell
 email: zacharyrussell01@gmail.com
