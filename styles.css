@@ -213,7 +213,7 @@
 
 /* hero Section CSS */
 .main{
-    background-color: #141414;
+    background-color: #1a1a1b;
 }
 
 .main__container{
@@ -223,7 +223,7 @@
     justify-self: center;
     margin: 0 auto;
     height: 90vh;
-    background-color: #141414;
+    background-color: #1a1a1b;
     z-index: 0;
     width: 100%;
     max-width: 1300px;
@@ -236,7 +236,7 @@
 }
 
 .main__content h1{
-    font-size: 4rem;
+    font-size: 6rem;
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     background-size: 100%;
@@ -248,7 +248,7 @@
 }
 
 .main__content h2{
-    font-size: 4rem;
+    font-size: 5rem;
     margin-top: 10px;
     background-color: #ff8177;
     background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
@@ -262,7 +262,7 @@
 
 .main__content p{
     margin-top: 1rem;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 700;
     color: #fff;
 
@@ -276,7 +276,7 @@
 }
 
 .main__btn{
-    font-size: 1rem;
+    font-size: 2rem;
     background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
     padding: 14px 32px;
     border: none;
@@ -377,7 +377,7 @@
 
 /* Services Section CSS */
 .services{
-    background: #141414;
+    background: #1a1a1b;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -454,6 +454,13 @@
     font-size: 1rem;
     cursor: pointer;
 }
+
+.services__card button a{
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+}
+
 
 .services__card button:hover{
     background: #4837ff;
