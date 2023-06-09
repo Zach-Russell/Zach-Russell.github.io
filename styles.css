@@ -448,6 +448,31 @@
     color: #fff;
 }
 
+.project__description a{
+    text-decoration: none;
+    margin: 50px auto;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.project__description a:hover{
+    text-decoration: none;
+    margin: 50px auto;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: #ff8177;
+    background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+        background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
 /* Mobile Responsive */
 @media screen and (max-width: 768px) {
     .main__container{
