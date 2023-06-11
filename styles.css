@@ -411,7 +411,8 @@
 }
 
 .project__item{
-    background-color: #5a5a5a;
+    background-color: #1a1a1b;
+    margin-bottom: 12rem;
 }
 
 .project__item h1{
