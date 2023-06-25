@@ -633,28 +633,32 @@
     /* cursor: pointer; */
 }
 
-@media screen and (max-width: 960px){
-    .services{
+@media screen and (max-width: 830px){
+    /* .services{
         height: 200vh;
-    }
-
-    .services h1{
-        font-size: 2rem;
-    }
-}
-
-@media screen and (max-width: 480px){
-    .services{
-        height: 200vh;
-    }
+    } */
 
     .services h1{
         font-size: 4rem;
     }
 
-    /* .services__card{
-        width: 300px;
-    }*/
+    .services__card{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .services{
+        height: 200vh;
+    }
+
+    .services h1{
+        font-size: 2.75rem;
+    }
+
+    .services__card{
+        width: 200px;
+    }
 }
 
 /* Footer CSS */
