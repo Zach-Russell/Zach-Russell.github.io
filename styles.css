@@ -661,6 +661,25 @@
     }
 }
 
+@media screen and (max-width: 300px){
+    .services{
+        height: 185vh;
+    }
+
+    .services h1{
+        font-size: 2rem;
+    }
+
+    .services h2{
+        top: 275px;
+        /* left: 30px; */
+    }
+
+    .services__card{
+        width: 175px;
+    }
+}
+
 /* Footer CSS */
 
 .footer__container {
